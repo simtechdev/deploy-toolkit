@@ -2,7 +2,7 @@
 
 CS-Cart and Multi-Vendor deployment toolkit is a simple script that helps developers and system administrators save a lot of time when deploying CS-Cart or Multi-Vendor installations. It will deliver your files to the servers specified, import data dumps and run migrations.
 
-Current version is 1.0.1.
+[![Version](https://img.shields.io/badge/version-1.0.2-green.svg)](https://github.com/simtechdev/smtk-deploy)
 
   * [Demo](#demo)
   * [Requirements](#requirements)
